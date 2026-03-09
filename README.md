@@ -1,16 +1,30 @@
-## Hi there 👋
+# Vini Bharat Bansode
 
-<!--
-**vini-bme/vini-bme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biotechnology undergraduate at Netaji Subhas University of Technology (NSUT), Delhi.
 
-Here are some ideas to get you started:
+I am interested in biomedical engineering, biomedical data analysis, and interdisciplinary research at the intersection of biology and engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Biomedical signal processing
+- Medical image analysis
+- Bioenergy systems
+- Biomedical device innovation
+
+## Projects
+
+### ECG Signal Visualization
+Analyzed electrocardiogram signals from the MIT-BIH Arrhythmia Database using Python and Matplotlib.
+
+### Microscopy Cell Image Analysis
+Implemented image-processing techniques using OpenCV to analyze microscopy images and estimate cell counts.
+
+### Microbial Fuel Cell (Ongoing Project)
+Working with Chrysalis Biotechnology Society at NSUT on microbial fuel cell systems for bioenergy generation.
+
+## Technical Skills
+Python | NumPy | Matplotlib | OpenCV  
+Adobe Photoshop | Illustrator | After Effects | Figma  
+Fusion 360 (basic CAD)
+
+## Links
+GitHub Projects: https://github.com/vini-bme
