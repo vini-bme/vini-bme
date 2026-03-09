@@ -21,6 +21,9 @@ Implemented image-processing techniques using OpenCV to analyze microscopy image
 ### Microbial Fuel Cell (Ongoing Project)
 Working with Chrysalis Biotechnology Society at NSUT on microbial fuel cell systems for bioenergy generation.
 
+### ECG Heartbeat Detection
+Implemented heartbeat peak detection from ECG signals using Python and SciPy. The algorithm identifies cardiac peaks and visualizes them on ECG waveforms.
+
 ## Technical Skills
 Python | NumPy | Matplotlib | OpenCV  
 Adobe Photoshop | Illustrator | After Effects | Figma  
